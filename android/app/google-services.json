@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67081176694",
+    "project_id": "donar-app-5f471",
+    "storage_bucket": "donar-app-5f471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67081176694:android:7279aef24f1aec24338157",
+        "android_client_info": {
+          "package_name": "com.manishpawar.donarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67081176694-m564uv16efr5cmvupfhpq3lc01pthemo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeoyIYvIK7bTQQYp-U0tmiO8LtyIUsdSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67081176694-m564uv16efr5cmvupfhpq3lc01pthemo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
